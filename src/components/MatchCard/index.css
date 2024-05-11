@@ -1,0 +1,35 @@
+.won {
+  color: green;
+}
+
+.lost {
+  color: red;
+}
+
+.logo-card {
+  height: 100px;
+}
+
+.container-card {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 8px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+
+.name {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 23px;
+  text-align: center;
+}
+
+.result {
+  text-align: center;
+}

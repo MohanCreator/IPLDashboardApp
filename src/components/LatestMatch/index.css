@@ -1,0 +1,35 @@
+.date {
+  font-size: 24px;
+}
+
+.competing-heading {
+  color: white;
+  font-family: 'Bree Serif';
+}
+
+.logo-team {
+  height: 200px;
+}
+
+p {
+  color: white;
+  font-family: 'Bree Serif';
+}
+.right {
+  text-align: right;
+}
+
+.latest-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1200px;
+  background-color: #1e293b;
+  padding: 20px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.opanent-team {
+  width: 400px;
+}

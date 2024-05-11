@@ -1,0 +1,28 @@
+.image {
+  height: 100px;
+  width: 100px;
+}
+
+.team-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration: none;
+  align-items: center;
+  width: 300px;
+  border-color: white;
+  border-radius: 8px;
+  border-style: solid;
+  margin-bottom: 30px;
+  padding: 20px;
+  height: 200px;
+  margin-right: 30px;
+}
+
+.name {
+  text-decoration: none;
+  color: white;
+  font-size: 28px;
+  font-family: 'Bree Serif';
+  margin-left: 20px;
+}
